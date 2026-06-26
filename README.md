@@ -57,5 +57,10 @@ Through this project, I strengthened my skills in:
 - Problem Solving
 
 ---
+## 📄 Project Documentation
+
+📥 **Download the full project report (PDF):**
+
+[Hospital Management System Report](https://drive.google.com/file/d/1URzMxjDy1MMLue3fSkLLowRZuhogvxsw/view?usp=drive_link)
 
 ⭐ Feel free to explore this project and provide feedback!
